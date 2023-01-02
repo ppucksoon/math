@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import random
 
 def odd(num):
     if num%2 == 0:
